@@ -25,7 +25,7 @@
 ## 1. Background <a name="background"></a>
 
 <p align="justify">
-The PaySim dataset contains over 6 million transactions with various features such as transaction type, amount, sender an   d receiver, and fraud labels. The goal is to detect fraudulent transactions using classification modeling and draw insights from exploratory data analysis. The goal is to detect fraudulent transactions using classification modeling and draw insights from exploratory data analysis </p>
+The PaySim dataset contains over 6 million transactions with various features such as transaction type, amount, sender an   d receiver, and fraud labels. The goal is to detect fraudulent transactions using classification modeling and draw insights from exploratory data analysis.</p>
 </p>
 
 ---
