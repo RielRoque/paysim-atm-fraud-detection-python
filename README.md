@@ -43,7 +43,6 @@ The objective of this project is to explore patterns behind fraudulent transacti
 
 ---
 ## 3. Insights Deep-Dive <a name="insights-deep-dive"></a>
-<a href="#toc">[ back to contents ]</a>
 
 ### 3.1. Class Imbalance <a name="class-imbalance"></a>  <a href="#toc">[↑]</a>
 
