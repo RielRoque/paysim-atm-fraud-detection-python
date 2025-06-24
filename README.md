@@ -20,6 +20,7 @@
 [4. Modeling & Results](#modeling_results)  <br>
 [5. Key Takeaways](#key-takeaways)  <br>
 [6. Tools & Libraries](#tools-libraries)  <br>
+
 ---
 
 ## 1. Background <a name="background"></a>
